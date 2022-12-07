@@ -79,11 +79,6 @@ export const products = [{
     Price: 6000,
     ImageSrc: 'images/caloventorliliana1.jpeg',
   },{
-    ID: 18,
-    Name: 'Escalera stanley fatmax 300 de 3 escalones',
-    Price: 9000,
-    ImageSrc: 'images/escalerita1.jpeg',
-  },{
     ID: 19,
     Name: 'Tarros de comida para perros de aluminio x2 + tarro plastico 15kg de regalo',
     Price: 7000,
