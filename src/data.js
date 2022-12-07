@@ -64,11 +64,6 @@ export const products = [{
     Price: 6000,
     ImageSrc: 'images/caloventor1.jpeg',
   },{
-    ID: 16,
-    Name: 'Lavarropas drean 10 8 gold blue',
-    Price: 60000,
-    ImageSrc: 'images/lavarropas1.jpeg',
-  },{
     ID: 17,
     Name: 'Caloventor Liliana convectory plus',
     Price: 6000,
@@ -114,11 +109,6 @@ export const products = [{
     Price: 5900,
     ImageSrc: 'images/sillitacomerbebe1.png',
   },{
-    ID: 26,
-    Name: 'Secador de pelo GAMA',
-    Price: 3000,
-    ImageSrc: 'images/secador1.png',
-  },{
     ID: 27,
     Name: 'Esterilizador Y Calentador De Mamaderas Eléctrico',
     Price: 2900,
@@ -128,12 +118,7 @@ export const products = [{
     Name: 'Camicleta Patacleta Madera Baika Edición Limitada Nunca Uso',
     Price: 12000,
     ImageSrc: 'images/camicleta1.png',
-  },{
-    ID: 29,
-    Name: 'Planchita de pelo ATTIVA GAMMA',
-    Price: 3000,
-    ImageSrc: 'images/planchita1.png',
-  },{
+  }{
     ID: 30,
     Name: 'Zapatillas varias niños (consultar talles y modelos)',
     Price: 0,
