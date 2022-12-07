@@ -59,11 +59,6 @@ export const products = [{
     Price: 6000,
     ImageSrc: 'images/chopera1.jpeg',
   },{
-    ID: 15,
-    Name: 'Caloventores marca EWT x2',
-    Price: 6000,
-    ImageSrc: 'images/caloventor1.jpeg',
-  },{
     ID: 17,
     Name: 'Caloventor Liliana convectory plus',
     Price: 6000,
@@ -94,11 +89,6 @@ export const products = [{
     Price: 7800,
     ImageSrc: 'images/sillascano1.png',
   },{
-    ID: 23,
-    Name: 'Inflador Bestway Electrico',
-    Price: 3490,
-    ImageSrc: 'images/inflador1.png',
-  },{
     ID: 24,
     Name: 'Semipermanente Cabina Torno',
     Price: 9900,
@@ -118,7 +108,7 @@ export const products = [{
     Name: 'Camicleta Patacleta Madera Baika Edición Limitada Nunca Uso',
     Price: 12000,
     ImageSrc: 'images/camicleta1.png',
-  }{
+  },{
     ID: 30,
     Name: 'Zapatillas varias niños (consultar talles y modelos)',
     Price: 0,
