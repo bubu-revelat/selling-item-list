@@ -78,5 +78,11 @@ export const products = [{
     Name: 'Zapatillas varias niños (consultar talles y modelos)',
     Price: 0,
     ImageSrc: 'images/zapatillasnino1.png',
-  }];
+  },{
+    ID: 17,
+    Name: 'Aspiradora ATMA 1700W con bolsa de tela',
+    Price: 12000,
+    ImageSrc: 'images/aspiradoraatma1.png',
+  }
+];
   
