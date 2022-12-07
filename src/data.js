@@ -1,9 +1,4 @@
 export const products = [{
-    ID: 1,
-    Name: 'Estante flotante rojo y negro x2',
-    Price: 5000,
-    ImageSrc: 'images/estante1.jpg',
-  }, {
     ID: 3,
     Name: 'Sommier baulera springwall + colchon poco uso + almohadas + cubre colchon',
     Price: 230000,
