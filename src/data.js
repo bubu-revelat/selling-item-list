@@ -18,22 +18,7 @@ export const products = [{
     Name: 'Panel para TV con estante lateral izq - medidas: 1,60 largo x 35 ancho x 1,10 alto',
     Price: 12000,
     ImageSrc: 'images/paneltv1.jpeg',
-  }, {
-    ID: 7,
-    Name: 'Escritorio hierro madera - medidas: 1,14 largo x 46 ancho x 76 alto',
-    Price: 25000,
-    ImageSrc: 'images/escritorio1.jpeg',
-  }, {
-    ID: 8,
-    Name: 'Repisa biblioteca hierro madera - medidas: 82 largo x 34 ancho x 1,87 alto',
-    Price: 15000,
-    ImageSrc: 'images/biblioteca1.jpeg',
-  }, {
-    ID: 9,
-    Name: 'Heladera Electrolux NO FROST 34 DF',
-    Price: 45000,
-    ImageSrc: 'images/heladera1.jpeg',
-  }, {
+  },{
     ID: 10,
     Name: 'Veladores x2',
     Price: 5000,
@@ -53,11 +38,6 @@ export const products = [{
     Name: 'Monopatin sieteveinte 80kg plegable regulable en altura luces ruedas',
     Price: 20000,
     ImageSrc: 'images/monopatin1.jpeg',
-  },{
-    ID: 14,
-    Name: 'Chopera de madera con tubo refrigerante',
-    Price: 6000,
-    ImageSrc: 'images/chopera1.jpeg',
   },{
     ID: 17,
     Name: 'Caloventor Liliana convectory plus',
@@ -93,11 +73,6 @@ export const products = [{
     Name: 'Semipermanente Cabina Torno',
     Price: 9900,
     ImageSrc: 'images/semipermanente1.png',
-  },{
-    ID: 25,
-    Name: 'Silla Comer Booster Plegable Transportable Peg Perego Rialto',
-    Price: 5900,
-    ImageSrc: 'images/sillitacomerbebe1.png',
   },{
     ID: 27,
     Name: 'Esterilizador Y Calentador De Mamaderas Eléctrico',
