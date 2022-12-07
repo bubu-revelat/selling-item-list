@@ -36,7 +36,7 @@ export const products = [{
   },{
     ID: 8,
     Name: 'Monopatin sieteveinte 80kg plegable regulable en altura luces ruedas',
-    Price: 20000,
+    Price: 12000,
     ImageSrc: 'images/monopatin1.jpeg',
   },{
     ID: 9,
