@@ -131,7 +131,7 @@ export const products = [{
   },{
     ID: 29,
     Name: 'Planchita de pelo ATTIVA GAMMA',
-    Price: 12000,
+    Price: 3000,
     ImageSrc: 'images/planchita1.png',
   },{
     ID: 30,
