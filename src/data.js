@@ -93,5 +93,60 @@ export const products = [{
     Name: 'Cuna funcional con cajonera (falta una baranda) + tirante de bajo cama',
     Price: 8000,
     ImageSrc: 'images/camita1.jpeg',
+  },{
+    ID: 21,
+    Name: 'Congas LP Aspire Santana LPA-625',
+    Price: 180000,
+    ImageSrc: 'images/congas1.jpeg',
+  },{
+    ID: 22,
+    Name: 'Pileta Intex Con Bomba Filtro Cloro Inflador Base Y Cobertor',
+    Price: 34000,
+    ImageSrc: 'images/pileta1.png',
+  },{
+    ID: 22,
+    Name: 'Sillas De Caño Usadas',
+    Price: 7800,
+    ImageSrc: 'images/sillascano1.png',
+  },{
+    ID: 23,
+    Name: 'Inflador Bestway Electrico',
+    Price: 3490,
+    ImageSrc: 'images/inflador1.png',
+  },{
+    ID: 24,
+    Name: 'Semipermanente Cabina Torno',
+    Price: 9900,
+    ImageSrc: 'images/semipermanente1.png',
+  },{
+    ID: 25,
+    Name: 'Silla Comer Booster Plegable Transportable Peg Perego Rialto',
+    Price: 5900,
+    ImageSrc: 'images/sillitacomerbebe1.png',
+  },{
+    ID: 26,
+    Name: 'Secador de pelo GAMA',
+    Price: 3000,
+    ImageSrc: 'images/secador1.png',
+  },{
+    ID: 27,
+    Name: 'Esterilizador Y Calentador De Mamaderas Eléctrico',
+    Price: 2900,
+    ImageSrc: 'images/calentadormamadera1.png',
+  },{
+    ID: 28,
+    Name: 'Camicleta Patacleta Madera Baika Edición Limitada Nunca Uso',
+    Price: 12000,
+    ImageSrc: 'images/camicleta1.png',
+  },{
+    ID: 29,
+    Name: 'Planchita de pelo ATTIVA GAMMA',
+    Price: 12000,
+    ImageSrc: 'images/planchita1.png',
+  },{
+    ID: 30,
+    Name: 'Zapatillas varias niños (consultar talles y modelos)',
+    Price: 0,
+    ImageSrc: 'images/zapatillasnino1.png',
   }];
   
