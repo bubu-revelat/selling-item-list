@@ -39,11 +39,6 @@ export const products = [{
     Price: 12000,
     ImageSrc: 'images/monopatin1.jpeg',
   },{
-    ID: 9,
-    Name: 'Caloventor Liliana convectory plus',
-    Price: 6000,
-    ImageSrc: 'images/caloventorliliana1.jpeg',
-  },{
     ID: 10,
     Name: 'Tarros de comida para perros de aluminio x2 + tarro plastico 15kg de regalo',
     Price: 7000,
@@ -75,7 +70,7 @@ export const products = [{
     ImageSrc: 'images/camicleta1.png',
   },{
     ID: 16,
-    Name: 'Zapatillas varias niños (consultar talles y modelos)',
+    Name: 'Zapatillas varias niños Talles 21/22 (consultar talles y modelos)',
     Price: 0,
     ImageSrc: 'images/zapatillasnino1.png',
   },{
@@ -83,6 +78,11 @@ export const products = [{
     Name: 'Aspiradora ATMA 1700W con bolsa de tela',
     Price: 12000,
     ImageSrc: 'images/aspiradoraatma1.jpeg',
+  },{
+    ID: 18,
+    Name: 'Taladro Black and Decker 550 watts',
+    Price: 5000,
+    ImageSrc: 'images/taladro1.jpeg',
   }
 ];
   
