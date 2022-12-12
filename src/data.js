@@ -83,6 +83,16 @@ export const products = [{
     Name: 'Taladro Black and Decker 550 watts',
     Price: 5000,
     ImageSrc: 'images/taladro1.jpeg',
+  },{
+    ID: 19,
+    Name: 'Mesa puente/ratona laqueada con dos bancos',
+    Price: 10000,
+    ImageSrc: 'images/mesaratona.jpeg',
+  },{
+    ID: 20,
+    Name: 'Skate Element',
+    Price: 15000,
+    ImageSrc: 'images/skateelement.jpeg',
   }
 ];
   
