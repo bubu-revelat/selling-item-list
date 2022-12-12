@@ -93,6 +93,16 @@ export const products = [{
     Name: 'Skate Element',
     Price: 15000,
     ImageSrc: 'images/skateelement.jpeg',
+  },{
+    ID: 21,
+    Name: 'Mampara Baño En Acrílico Y Aluminio. 4 Paños',
+    Price: 22300,
+    ImageSrc: 'images/amamparas.jpeg',
+  },{
+    ID: 22,
+    Name: 'Bicicleta Royal Baby Flying Bear Rodado 14 Impecable Estado',
+    Price: 34900,
+    ImageSrc: 'images/bicipachi.jpeg',
   }
 ];
   
