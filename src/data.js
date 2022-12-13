@@ -54,11 +54,6 @@ export const products = [{
     Price: 180000,
     ImageSrc: 'images/congas1.jpeg',
   },{
-    ID: 13,
-    Name: 'Pileta Intex Con Bomba Filtro Cloro Inflador Base Y Cobertor',
-    Price: 34000,
-    ImageSrc: 'images/pileta1.png',
-  },{
     ID: 14,
     Name: 'Semipermanente Cabina Torno',
     Price: 9900,
