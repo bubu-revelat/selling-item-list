@@ -84,11 +84,6 @@ export const products = [{
     Price: 10000,
     ImageSrc: 'images/mesaratona.jpeg',
   },{
-    ID: 20,
-    Name: 'Skate Element',
-    Price: 15000,
-    ImageSrc: 'images/skateelement.jpeg',
-  },{
     ID: 21,
     Name: 'Mampara Baño En Acrílico Y Aluminio. 4 Paños',
     Price: 22300,
