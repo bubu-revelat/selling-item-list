@@ -8,31 +8,16 @@ export const products = [{
     Name: 'Rack TV / Comoda negro laqueado - medidas: 1,73 largo x 47 ancho x 54 alto',
     Price: 12000,
     ImageSrc: 'images/comoda1.jpg',
-  }, {
-    ID: 3,
-    Name: 'Mesa de luz negro laqueado x2',
-    Price: 12000,
-    ImageSrc: 'images/mesaluz1.jpg',
-  }, {
+  },{
     ID: 4,
     Name: 'Panel para TV con estante lateral izq - medidas: 1,60 largo x 35 ancho x 1,10 alto',
     Price: 12000,
     ImageSrc: 'images/paneltv1.jpeg',
   },{
-    ID: 5,
-    Name: 'Veladores x2',
-    Price: 5000,
-    ImageSrc: 'images/veladores1.jpeg',
-  },{
     ID: 6,
     Name: 'Acolchado de lana tejido a mano con 6 fundas para diferentes almohadones',
     Price: 18000,
     ImageSrc: 'images/acolchado1.jpeg',
-  },{
-    ID: 7,
-    Name: 'Aro de basket 45cm diametro + pelota spalding TF-150',
-    Price: 10000,
-    ImageSrc: 'images/aro1.jpeg',
   },{
     ID: 8,
     Name: 'Monopatin sieteveinte 80kg plegable regulable en altura luces ruedas',
@@ -73,11 +58,6 @@ export const products = [{
     Name: 'Aspiradora ATMA 1700W con bolsa de tela',
     Price: 12000,
     ImageSrc: 'images/aspiradoraatma1.jpeg',
-  },{
-    ID: 18,
-    Name: 'Taladro Black and Decker 550 watts',
-    Price: 5000,
-    ImageSrc: 'images/taladro1.jpeg',
   },{
     ID: 19,
     Name: 'Mesa puente/ratona laqueada con dos bancos',
