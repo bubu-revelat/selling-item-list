@@ -31,7 +31,7 @@ export const products = [{
   },{
     ID: 12,
     Name: 'Aspiradora ATMA 1700W con bolsa de tela',
-    Price: 12000,
+    Price: 10000,
     ImageSrc: 'images/aspiradoraatma1.jpeg',
   },{
     ID: 13,
